@@ -1,6 +1,3 @@
-# jba_kotlin_connect_four
-"Сonnect Four" console game in Kotlin. Developed as part of my training at JetBrains Academy.
-
 # Connect Four
 Stage 5 of 5 for JetBrains Academy - Kotlin - [Connect Four project](https://hyperskill.org/projects/202/stages/1006/implement).   
 This stage has us add the option for more than one game ( and keeping score for multiple games ).
